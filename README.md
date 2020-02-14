@@ -5,4 +5,3 @@
 
 <br><b><i>Based on the survey results data analysis was performed to find out patterns/trends in the data.
 
-https://public.tableau.com/profile/ashishbidap#!/vizhome/DataScienceSurveyData_/HowDataScienceisevolvinginCountries_
